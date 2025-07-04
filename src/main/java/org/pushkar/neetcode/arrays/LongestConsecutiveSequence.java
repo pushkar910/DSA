@@ -54,4 +54,5 @@ public class LongestConsecutiveSequence {
 
         return max;
     }
+
 }
